@@ -6,3 +6,10 @@
 ![](banners/gif.gif)
 
 
+Installation
+
+sudo apt install git -y
+git clone https://github.com/3ngkanto.git
+cd 3ngkanto
+bash install.sh
+bash run.sh
